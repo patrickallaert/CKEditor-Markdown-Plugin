@@ -1,0 +1,17 @@
+{
+    "name": "patrickallaert/ckeditor-markdown-plugin",
+    "description": "Markdown Plugin for CKEditor",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Hector Guo",
+            "homepage": "https://hectorguo.com/",
+            "role": "Developer"
+        },
+        {
+            "name": "Patrick Allaert",
+            "homepage": "https://github.com/patrickallaert",
+            "role": "Developer"
+        }
+    ]
+}
